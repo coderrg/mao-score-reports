@@ -1,0 +1,4 @@
+pandas==0.25.1
+python_docx==0.8.10
+docx==0.2.4
+python_Levenshtein==0.12.0
